@@ -2,7 +2,7 @@
  Verificação de conta
  --------------------
 
- Uma parte dos códigos feitos por mim para o site: P2Win <a href="https://www.p2win.com.br" target="_blank" rel="noreferrer"><img src="https://imgur.com/Uq2xQiG.gif" width="70" height="70" alt="P2Win" /></a>
+ Uma parte dos códigos feitos por mim para o site: [P2Win](http://www.p2win.com.br) <a href="https://www.p2win.com.br" target="_blank" rel="noreferrer"><img src="https://imgur.com/Uq2xQiG.gif" width="40" height="40" alt="P2Win" /></a>
 
 
 ### Acc verification 
