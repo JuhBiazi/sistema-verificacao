@@ -2,10 +2,8 @@
  Verificação de conta
  --------------------
 
- Uma parte dos códigos feitos por mim para o site: 
- <p align="left">
- <a href="https://www.p2win.com.br" target="_blank" rel="noreferrer"><img src="https://imgur.com/Uq2xQiG.gif" width="36" height="36" alt="P2Win" /></a>
- </p>
+ Uma parte dos códigos feitos por mim para o site: P2Win <a href="https://www.p2win.com.br" target="_blank" rel="noreferrer"><img src="https://imgur.com/Uq2xQiG.gif" width="70" height="70" alt="P2Win" /></a>
+
 
 ### Acc verification 
     * Adicionei campo CPF (campo obrigatório e depois que aprovado, é exibido apenas como   vizualização, não podendo ser alterado);
